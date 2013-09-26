@@ -4,7 +4,7 @@
 4	Free school meals
 5	Supervised medication in school
 6	Language and cultural support in school
-7	Schools - psychological, psychiatric or social work services
+7	Psychological, psychiatric or social work services in schools
 8	Special educational needs co-ordinated support plan
 9	Special educational needs assessment
 10	Special educational needs - placement in mainstream school
@@ -13,7 +13,7 @@
 13	Primary school places
 14	Secondary school places
 15	School pupil records
-17	Local schools 
+17	Local schools
 18	School holiday schemes
 19	Childcare out of school hours
 20	Childminding
@@ -24,7 +24,7 @@
 26	Education - adult - opportunities in Europe
 27	Adult education courses
 29	School governors
-31	School assessment and performance
+31	School assessment  and performance
 32	School curriculum
 33	Schools development plans
 34	Exclusion of school pupils
@@ -68,9 +68,9 @@
 84	Housing - allocations - general information
 85	Hard to let properties
 86	Allocated council homes
-87	Housing association nomination and registration
+87	Housing association  nomination and registration
 88	Mutual home exchange
-89	Housing allocation system 
+89	Housing allocation system
 90	Housing - allocations  - re-housing decision appeal
 91	Housing tenant support
 92	Registering for a council property
@@ -117,10 +117,10 @@
 147	Assisted garden maintenance
 148	Housing rent setting
 150	Houses in multiple occupation safety inspection
-151	Right to buy your home 
+151	Right to buy your home
 156	Housing - council - services and communal repairs
 157	Property deeds
-158	Home purchase grants 
+158	Home purchase grants
 159	Fostering
 160	Adoption
 162	Advocacy for carers
@@ -163,7 +163,7 @@
 279	Disabled people - parking permits
 280	Disabled people - bus passes
 287	Direct payments
-292	Adult residential care 
+292	Adult residential care
 293	Adult hospice care
 296	Community and day centres
 297	Community support groups and organisations
@@ -171,7 +171,7 @@
 299	Disabled people - employment advice
 300	Young carers support
 308	Law - legal aid
-309	Power of attorney
+309	Socal services - adults with incapacity
 310	Child protection orders
 311	Law - wills and testaments - advice
 312	Out of hours social care
@@ -179,7 +179,7 @@
 315	Mobile meals
 316	Care - home assessment
 317	Wedding venues
-318	Licences - wedding venue
+318	Wedding venue licence
 319	Birth registration
 320	Birth - re-registering
 321	Death registration
@@ -187,7 +187,7 @@
 323	Birth - historical searches
 324	Death - historical searches
 325	Mortuaries
-326	Repatriation of bodies
+326	Repatriation of bodies - England and Wales
 327	Repatriation of bodies abroad
 328	Bereavement support
 329	Municipal funerals
@@ -227,30 +227,30 @@
 370	Change of circumstances
 372	Abandoned vehicles
 373	Conference, hall and meeting room hire
-374	Licences - boarding animals
-375	Licences - pet shops
-376	Licences - dangerous animals
-377	Licences - dog breeding
-378	Registration - scrap metal site
-380	Licences - poisons
-382	Licences - obstructions - scaffolding and hoarding
-383	Licences - obstructions - building materials
-384	Licences - sale of fireworks
-385	Licences - butchers shops
+374	Boarding animals licence
+375	Pet shop licence
+376	Dangerous animals licence
+377	Dog breeding licence
+378	Scrap metal site registration
+380	Poisons licence
+382	Scaffolding and hoarding licence
+383	Building materials licence
+384	Fireworks sales licence
+385	Butchers shop licence
 386	Licences - gaming machines
-387	Licences - voluntary sector transport
-388	Licences - sex establishments
-390	Registration - food businesses
-391	Licences - late night catering
+387	Voluntary sector transport licence
+388	Sex establishment licence
+390	Food business registration
+391	Late night catering licence
 392	Licences - game dealing
 393	Licences - public entertainment
 394	Licences - cinemas
 395	Licences - theatres
 396	Licences - amusements with prizes
-397	Licences - lotteries
-398	Licences - door supervisors
+397	Lottery licence
+398	Door supervisor licence
 399	Illegal street trading
-400	Licences - street trading
+400	Street trading licence
 401	Trading standards advice to businesses
 402	Product safety
 403	Retail trading standards
@@ -301,7 +301,7 @@
 462	Sports - pitches and courts
 463	Outdoor events
 464	Grazing land
-465	Fishing
+465	Fishing 
 466	Countryside facilities
 467	Countryside education
 468	Countryside events
@@ -318,7 +318,7 @@
 485	Residential planning applications
 487	Business planning applications
 493	Transport policy
-494	Local plans 
+494	Local plans
 495	Environmental policy
 496	Shop front improvement grants
 497	Town centre crime prevention
@@ -333,7 +333,7 @@
 514	Listed buildings
 515	Zoning
 516	Planning decision notices
-517	Commercial waste collection 
+517	Commercial waste collection
 518	Commercial waste spillage
 519	Commercial waste bins
 520	Commercial waste disposal sites
@@ -436,10 +436,10 @@
 629	Youth project volunteering
 630	School complaints procedure
 631	Chaperone service
-632	Licences - hackney carriages (taxis)
-634	Licences - private hire drivers' licences 
-635	Licences - hackney carriages (taxis) - drivers' licences
-636	Licences - private hire operators' licences
+632	Hackney carriage (taxi) licence
+634	Private hire drivers licence
+635	Hackney carriage (taxi) drivers licence
+636	Private hire operators licence
 637	Bus stops and shelters
 639	Sports grants
 640	Older people's  activities
@@ -449,8 +449,8 @@
 644	Sports - facilities - information
 645	Complaints advocacy
 646	Licences - private club
-647	Licences - street collection
-648	Licences - house to house collection
+647	Street collection licence
+648	House to house collection licence
 650	Accommodation certificates
 651	Debt counselling
 652	Private housing advice
@@ -475,10 +475,10 @@
 675	Waste local plan
 676	Legal advice
 677	Vacant land and property
-679	Licences - market event
-680	Registration - tattooists, piercing and electrolysis
-682	Licences - second hand goods 
-683	Licences - credit
+679	Market event licence
+680	Tattooist, piercing and electrolysis registration
+682	Second hand goods licence
+683	Credit licence
 684	Derelict properties
 685	Business - exporters' forums
 686	Licences - fairgrounds
@@ -489,17 +489,17 @@
 691	Clean Air Act approval
 692	Business security advice
 693	Business security grants
-696	Licences - riding establishments
+696	Riding establishment licence
 697	Fuel delivery and storage
 698	Marriage - historical searches
-699	Licences - zoos
+699	Zoo licence
 700	Advice for young people
 701	Road adoption
 702	Countryside management
 703	Emergency plan
 704	Musical instruments purchase scheme
 705	School admission appeals
-706	Licences - animal movement - sheep and goats
+706	Sheep and goat movement licence
 707	Cooling tower registration
 708	Pollution control - Part A(2) and Part B processes
 709	Parks and open space maintenance
@@ -530,12 +530,12 @@
 736	Teenage pregnancy
 737	Traveller children support
 738	Licences - water sports
-739	Licences - pleasure boats
-740	Licences - self drive boats
-741	Licences - boatman's
-742	Licences - street cafe
-743	Licences - caravan site
-744	Licences - highway projection
+739	Pleasure boat licence
+740	Self drive boats licence
+741	Boatman's licence
+742	Street café licence
+743	Caravan site licence
+744	Highway projection licence
 745	Countryside conservation
 746	Community farms
 747	Rural development
@@ -586,7 +586,7 @@
 793	Civil emergencies - flooding
 794	Civil emergencies - gas pipelines
 795	Radioactive materials storage and transport
-796	Licences - explosives
+796	Explosives licence
 798	Hazardous chemical (HAZCHEM) incidents
 799	Licences - storage of fireworks
 800	Arson reduction
@@ -599,7 +599,7 @@
 807	Fire certificates - shops
 808	Fire certificates - hotels/boarding houses
 809	Fire warden/commercial training
-810	Licences - storage of petroleum
+810	Petroleum storage licence
 811	Construction site fire safety
 812	Fire safety education
 813	Workplace fire regulations
@@ -627,11 +627,11 @@
 839	Museum and gallery shops
 840	Support for children in care
 841	Historic sites maintenance
-842	Licences - sports grounds
-843	Licences - weighbridge operator
-844	Licences - track betting
+842	Sports grounds licence
+843	Weighbridge operator licence
+844	Track betting licence
 845	Food safety advice
-846	Environmental health placements 
+846	Environmental health placements
 847	Rabies protection
 848	Coastal protection
 849	Memorial maintenance
@@ -639,12 +639,11 @@
 851	Recycling advice
 852	Citizenship ceremonies
 853	Accessibility of Web sites
-854	Household waste assisted collection 
+854	Household waste assisted collection
 855	Planning consultation
 857	Financial assistance for housing associations
 858	Home improvement loans
 859	Clinical household waste
-860	Licences - alcohol and entertainment - premises
 861	Equality and diversity
 862	Local access forums
 863	Vetting of contract and supplier staff
@@ -679,7 +678,7 @@
 895	Citizenship education
 896	Behaviour development
 897	Extended schools
-898	Licences - homes in multiple occupancy
+898	Homes in multiple occupancy licence
 900	Commercial property development
 901	Demand responsive transport
 902	Journey planning
@@ -690,7 +689,6 @@
 907	Transport tickets and passes
 908	Transport timetable information
 909	Septic tanks and cesspits
-910	Licences - alcohol and entertainment - personal
 911	Housing referrals
 912	House clearance and re-housing
 913	Empty residential properties
@@ -738,20 +736,20 @@
 1062	Library collections
 1063	Online library resources
 1064	Scottish Parliamentary information
-1065	Licences - betting offices
-1067	Licences - door-to-door metal dealers
-1068	Licences - fireworks displays
+1065	Betting office licence
+1067	Door-to-door metal dealer licence
+1068	Fireworks display licence
 1069	Children's certificate
 1070	Licences - licensed premises - hotels
-1071	Licences - temporary event notices
+1071	Temporary event notice
 1072	Licences - licensed premises - off-sales
 1073	Licences - licensed premises - public houses
 1074	Licences - licensed premises - refreshment licences
 1075	Licences - licensed premises - restaurants
-1076	Licences - licensed premises - restricted hotel licences
-1077	Licences - performing animals
-1078	Licences - window cleaners - business
-1079	Licences - window cleaners - employee
+1076	Restricted hotel licence
+1077	Performing animals licence
+1078	Window cleaning business licence
+1079	Window cleaning employee licence
 1080	Museums and galleries - enquiries
 1081	Outdoor activity centres
 1082	Advertisement control
@@ -766,7 +764,7 @@
 1091	Bail accommodation
 1092	Bail information
 1093	Bail supervision
-1094	Dog waste bins
+1094	Dog  waste bins
 1095	Children's Hearings - Supervision Requirement
 1096	Community Reparation Orders
 1097	Community service orders
@@ -777,7 +775,7 @@
 1102	Means Enquiry reports
 1103	Parole reports
 1104	Probation orders
-1105	Social Enquiry reports 
+1105	Social Enquiry reports
 1106	Supervising attendance orders
 1107	Throughcare
 1108	Camping and caravan sites
@@ -799,10 +797,10 @@
 1127	Trader approval schemes
 1129	District Courts
 1130	Residential recycling collections
-1131	Sustainable development - general
+1131	Sustainable development
 1132	Travel plans
 1133	Hate crime
-1135	Education transport for 16-19 year olds 
+1135	Education transport for 16-19 year olds
 1136	Stopping up orders
 1141	Library loans
 1142	Caretaking
@@ -815,8 +813,8 @@
 1157	Building control enforcement
 1158	Development control enforcement
 1159	Cultural grants
-1160	Licences - stage hypnotism
-1161	Housing - registration - private landlords
+1160	Stage hypnotism licence
+1161	Private landlord registration
 1284	Mental Health Officers
 1285	Conveyancing
 1286	Teenagers' library services
@@ -826,5 +824,5 @@
 1306	Petitions
 1307	Current emergency situations - weather
 1308	Current emergency situations - civil
-1335	Notification - pig movement
+1335	Pig movement notification
 1583	Licences - booking office
